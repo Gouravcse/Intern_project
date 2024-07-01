@@ -1,5 +1,5 @@
 # VEHICLE SERVICE MANAGEMENT
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Gourav%20Kumar-red)
 ---
 ## SCREENSHOTS
 ### Home Page
